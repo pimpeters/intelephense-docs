@@ -22,7 +22,7 @@ Further configuration options are available in the `intelephense` section of set
 ### Other Editors
 
 #### Requirements
-[Node.js 12+](https://nodejs.org)
+[Node.js 18+](https://nodejs.org)
 
 #### Server Installation
 ```
